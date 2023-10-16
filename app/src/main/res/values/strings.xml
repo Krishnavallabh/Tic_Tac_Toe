@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="printX">X</string>
+    <string name="printO">O</string>
+</resources>
